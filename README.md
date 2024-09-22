@@ -1,6 +1,6 @@
 # Xbook
 Xbook is a social network similar to Facebook. The project is currently in progress, but the basic functionality is finished. A team of frontend and backend developers is working on this project.
-[The link to the current version.](http://3.91.59.211:8080/login)
+[The link to the current version.](https://xbook.dan-it.com.ua/login)
 ## Technologies
 **Frontend**:
 - **Main:** React + Vite, React Router, Redux Tollkit.
@@ -15,6 +15,6 @@ Xbook is a social network similar to Facebook. The project is currently in progr
 - **ORM:** Hibernate.
 - **Databases:** H2, PostgreSQL.
 - **Build and Project Management:** Maven.
-- **API Testing and Documentation:** [Swagger](http://3.91.59.211:8080/swagger-ui/index.html), SpringDoc OpenAPI.
+- **API Testing and Documentation:** [Swagger](https://xbook.dan-it.com.ua/swagger-ui/index.html), SpringDoc OpenAPI.
 - **Deployment:** AWS (RDS & EC2).
 - **CI/CD:** GitHub, SonarCloud.
